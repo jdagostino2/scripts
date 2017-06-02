@@ -1,3 +1,4 @@
+# This script is an example that shows the 'return' function.
 import random
 def getAnswer(answerNumber):
     if answerNumber == 1:
